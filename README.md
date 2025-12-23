@@ -63,7 +63,9 @@ ________________________________________
 ________________________________________
 🖼️ Dashboard Screenshot
 (Add dashboard screenshots here)
-![COVID-19 Dashboard](covid_dashboard.png)
+![COVID-19 Dashboard](https://github.com/ritikagautam978-tech/powerbi-project/blob/bdc1d2a097d32f001be98fdd513e5d2f1580055a/Screenshot%202025-12-23%20124237.png)
+
+![COVID-19 Dashboard](https://github.com/ritikagautam978-tech/powerbi-project/blob/bdc1d2a097d32f001be98fdd513e5d2f1580055a/Screenshot%202025-12-23%20124258.png)
 ________________________________________
 🏷️ Keywords
 Power BI COVID-19 Dashboard Data Visualization DAX Public Health Analytics
